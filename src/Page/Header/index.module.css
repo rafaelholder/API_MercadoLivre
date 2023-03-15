@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 12px;
+    padding: 12px;
+}
+a{
+    background-color: #2b3566;
+    color: whitesmoke;
+    padding: 12px;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: .8s;
+}
+a:hover{
+    opacity: .8;
+}
