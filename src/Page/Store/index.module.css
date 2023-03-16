@@ -41,6 +41,9 @@
     background-color: #2b3566;
     padding: 12px;
 }
+.title{
+    font-size: 16px;
+}
 
 .product h2 {
     margin-top: 12px;
@@ -71,9 +74,9 @@
     font-size: 64px;
     background-color: none;
     cursor: pointer;
-    color: #9da5d1;
+    color: lightgreen;
     transition: .7s;
 }
 .button:hover{
-    opacity: .6;
+    opacity: .7;
 }
